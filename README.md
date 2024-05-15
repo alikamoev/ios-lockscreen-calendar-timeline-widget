@@ -2,6 +2,8 @@
 
 This project is an iOS lock screen widget created using Scriptable. The widget displays a timeline with events from the iOS calendar.
 
+![Widget Screenshot](screenshot.png)
+
 ## Installation
 
 1. Download Scriptable from the App Store.
