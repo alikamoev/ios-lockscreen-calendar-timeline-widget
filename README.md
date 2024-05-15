@@ -1,20 +1,20 @@
 # ios-lockscreen-calendar-timeline-widget
 
-Этот проект представляет собой виджет для экрана блокировки iOS, созданный с помощью Scriptable. Виджет отображает таймлайн с событиями из календаря iOS.
+This project is an iOS lock screen widget created using Scriptable. The widget displays a timeline with events from the iOS calendar.
 
-## Установка
+## Installation
 
-1. Скачайте Scriptable из App Store.
-2. Скопируйте содержимое файла `widget.js`.
-3. Откройте Scriptable, создайте новый скрипт и вставьте скопированный код.
-4. Настройте виджет на экране блокировки iOS, выбрав созданный скрипт.
+1. Download Scriptable from the App Store.
+2. Copy the contents of the `widget.js` file.
+3. Open Scriptable, create a new script, and paste the copied code.
+4. Set up the widget on the iOS lock screen by selecting the created script.
 
-## Использование
+## Usage
 
-1. Добавьте виджет на экран блокировки.
-2. Виджет будет отображать предстоящие события из вашего календаря.
+1. Add the widget to the lock screen.
+2. The widget will display upcoming events from your calendar.
 
-## Примечания
+## Notes
 
-- Убедитесь, что у Scriptable есть доступ к вашему календарю.
-- Виджет обновляется автоматически каждые несколько минут.
+- Ensure that Scriptable has access to your iOS Calendar.
+- The widget updates automatically every few minutes.
